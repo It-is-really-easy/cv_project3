@@ -136,7 +136,7 @@ python kcfdet.py
 ## 开发者
 
 本项目旨在探索并改进基于核相关滤波器的目标跟踪算法，适合于实时跟踪任务的研究与应用。
-该项目现已上传[Upload files · It-is-really-easy/cv_project3](https://github.com/It-is-really-easy/cv_project3)
+该项目现已上传https://github.com/It-is-really-easy/cv_project3
 ------
 
 如需更多帮助或定制，请联系开发者！
